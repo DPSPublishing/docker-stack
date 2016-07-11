@@ -154,6 +154,7 @@ RUN apt-get update && apt-get install -y \
     libpq-dev \
     libmemcached-dev \
     curl \
+    libcurl \
     libpng12-dev \
     libfreetype6-dev \
     libssl-dev \
